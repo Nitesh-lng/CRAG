@@ -1,0 +1,6 @@
+.env
+CRAG/
+faiss_index/
+__pycache__/
+*.pyc
+practicle.ipynb
