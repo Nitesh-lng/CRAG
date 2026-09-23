@@ -50,7 +50,7 @@ def main():
         builder.save(vector_store, index_path)
         logger.info("Vector store saved.")
 
-    # Generate the graph visualization (best-effort).
+
     save_graph_png("graph.png")
 
     logger.info("-" * 50)
